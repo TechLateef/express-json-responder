@@ -1,4 +1,4 @@
-````markdown
+
 # express-json-response
 
 A lightweight and consistent utility for sending structured JSON responses in Express.js applications using TypeScript.
@@ -16,7 +16,7 @@ A lightweight and consistent utility for sending structured JSON responses in Ex
 
 ## 📦 Installation
 
-```bash
+```
 npm install express-json-response http-status-codes
 ````
 
