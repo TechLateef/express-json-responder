@@ -1,5 +1,5 @@
 
-# express-json-response
+# express-api-responder
 
 A lightweight and consistent utility for sending structured JSON responses in Express.js applications using TypeScript.
 
@@ -137,6 +137,6 @@ Contributions, suggestions, and improvements are welcome! To contribute:
 
 ## 📄 License
 
-MIT License © [Abdullateef Mubarak](https://github.com/TechLateef/express-json-response.git)
+MIT License © [Abdullateef Mubarak](https://github.com/TechLateef/express-json-responder.git)
 
 ```
