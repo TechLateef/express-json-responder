@@ -1,5 +1,5 @@
 
-# express-api-responder
+# express-json-responder
 
 A lightweight and consistent utility for sending structured JSON responses in Express.js applications using TypeScript.
 
